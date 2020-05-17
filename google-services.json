@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "171778665468",
+    "firebase_url": "https://boxeats.firebaseio.com",
+    "project_id": "boxeats",
+    "storage_bucket": "boxeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171778665468:android:714892730df288f6ea2079",
+        "android_client_info": {
+          "package_name": "com.boxeats.in.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqLNarIwqrwCniMTRMcADpYwtIpZ1kWpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171778665468:android:32ae3a59968beff4ea2079",
+        "android_client_info": {
+          "package_name": "com.boxeats.in.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqLNarIwqrwCniMTRMcADpYwtIpZ1kWpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
