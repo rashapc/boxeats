@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "171778665468",
-    "firebase_url": "https://boxeats.firebaseio.com",
-    "project_id": "boxeats",
-    "storage_bucket": "boxeats.appspot.com"
+    "project_number": "1084407164352",
+    "firebase_url": "https://boxeats-94e0e.firebaseio.com",
+    "project_id": "boxeats-94e0e",
+    "storage_bucket": "boxeats-94e0e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:171778665468:android:714892730df288f6ea2079",
+        "mobilesdk_app_id": "1:1084407164352:android:c076216c0015a522fc6c25",
         "android_client_info": {
           "package_name": "com.boxeats.in.customer"
         }
       },
       "oauth_client": [
         {
-          "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+          "client_id": "1084407164352-mmtc0jam09icge1eaip3qi7fpc1ev0vk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAqLNarIwqrwCniMTRMcADpYwtIpZ1kWpo"
+          "current_key": "AIzaSyBcyNWAGGSgV1TO5XzV1SY42l4w_6SSUAg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+              "client_id": "1084407164352-mmtc0jam09icge1eaip3qi7fpc1ev0vk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
@@ -37,27 +37,27 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:171778665468:android:32ae3a59968beff4ea2079",
+        "mobilesdk_app_id": "1:1084407164352:android:0eecd89b1c5c9f22fc6c25",
         "android_client_info": {
           "package_name": "com.boxeats.in.merchant"
         }
       },
       "oauth_client": [
         {
-          "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+          "client_id": "1084407164352-mmtc0jam09icge1eaip3qi7fpc1ev0vk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAqLNarIwqrwCniMTRMcADpYwtIpZ1kWpo"
+          "current_key": "AIzaSyBcyNWAGGSgV1TO5XzV1SY42l4w_6SSUAg"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "171778665468-cv74e9hqafjpokrqkh8q2f61ni5cbltf.apps.googleusercontent.com",
+              "client_id": "1084407164352-mmtc0jam09icge1eaip3qi7fpc1ev0vk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

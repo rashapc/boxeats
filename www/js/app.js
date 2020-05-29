@@ -1,5 +1,5 @@
 /**
-Karenderia Order Taking App
+BoxxEats Order Taking App
 Version 2.5
 */
 
